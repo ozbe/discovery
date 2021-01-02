@@ -34,7 +34,7 @@
     - [Busy waiting](09-clocks-and-timers/busy-waiting.md)
     - [Putting it all together](09-clocks-and-timers/putting-it-all-together.md)
 - [Serial communication](10-serial-communication/README.md)
-    - [*nix tooling](10-serial-communication/nix-tooling.md)
+    - [\*nix tooling](10-serial-communication/nix-tooling.md)
     - [Windows tooling](10-serial-communication/windows-tooling.md)
     - [Loopbacks](10-serial-communication/loopbacks.md)
 - [USART](11-usart/README.md)
@@ -73,6 +73,7 @@
 ---
 
 [General troubleshooting](appendix/1-general-troubleshooting/README.md)
+[How to use GDB](appendix/2-how-to-use-gdb/README.md)
 
 <!-- - [Async IO: The future](17-async-io-the-future/README.md) -->
 <!--     - [Timer](17-async-io-the-future/timer.md) -->
